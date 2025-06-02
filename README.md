@@ -11,6 +11,9 @@ I implemented the game mechanics as an exercise in creating visualizations and c
 
 **Next steps**: Refine the statistical analysis. Develop and test strategies.
 
+Visualiziation of a move:
+![](example_turn.png)
+
 ---
 
 ### **Carolus Magnus**
